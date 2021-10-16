@@ -1,0 +1,23 @@
+{
+  "name": "resti-api-english",
+  "version": "1.0.0",
+  "description": "resti api english for kids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matt-Ti/resti-api-english.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matt-Ti/resti-api-english/issues"
+  },
+  "homepage": "https://github.com/Matt-Ti/resti-api-english#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

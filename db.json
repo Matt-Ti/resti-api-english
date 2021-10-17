@@ -1,0 +1,33 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Mateus s.",
+            "email": "mateuscarmo720@gmail.com",
+            "xp": 0,
+            "highscore": 0
+        }
+    ],
+    "categories": [
+    {
+      "id": 1,
+      "name": "Families",
+      "image": "https://img.cancaonova.com/cnimages/canais/uploads/sites/6/2019/08/formacao_1600x1200-existe-uma-familia-perfeita.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Numbers",
+      "image": "https://img.cancaonova.com/cnimages/canais/uploads/sites/6/2019/08/formacao_1600x1200-existe-uma-familia-perfeita.jpg"
+    },
+    {
+      "name": "colors",
+      "image": "https://img.cancaonova.com/cnimages/canais/uploads/sites/6/2019/08/formacao_1600x1200-existe-uma-familia-perfeita.jpg",
+      "id": 3
+    },
+    {
+      "name": "veiculos",
+      "image": "https://img.cancaonova.com/cnimages/canais/uploads/sites/6/2019/08/formacao_1600x1200-existe-uma-familia-perfeita.jpg",
+      "id": 4
+    }
+  ]
+}
